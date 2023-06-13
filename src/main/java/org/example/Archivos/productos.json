@@ -1,0 +1,19 @@
+[ {
+  "id" : 1,
+  "descripcion" : "Manzana",
+  "precio" : 50.0,
+  "stock" : 20,
+  "categoria" : "FRUTAS"
+}, {
+  "id" : 2,
+  "descripcion" : "Banana",
+  "precio" : 60.0,
+  "stock" : 8,
+  "categoria" : "FRUTAS"
+}, {
+  "id" : 3,
+  "descripcion" : "Pan",
+  "precio" : 60.0,
+  "stock" : 10,
+  "categoria" : "PANADERÍA"
+}]
